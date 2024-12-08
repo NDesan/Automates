@@ -69,10 +69,3 @@ Ce projet démontre l'implémentation pratique d'un automate LR(1) et l'importan
 
 ---
 
-## Compilation et Exécution
-
-### Compilation
-Utilisez le fichier `Makefile` fourni pour compiler le projet :
-```bash
-make
-
